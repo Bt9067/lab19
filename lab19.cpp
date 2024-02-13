@@ -1,5 +1,7 @@
-// Please include header (lab21.h) here.
-
+#include<iostream>
+#include<ctime>
+#include<string>
+using namespace std;
 int main(){
 	srand(time(0));
 	Unit hero,mons;
